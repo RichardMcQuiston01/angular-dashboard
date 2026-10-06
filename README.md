@@ -1,9 +1,23 @@
-# Project Title
+# Angular Store Dashboard
 
 - Author:  Richard McQuiston
 - Website:  https://richardmcquiston.com/
 
 ## Overview
+
+Simulated dashboard for displaying data for an online store.  The demo combines an Angular based frontend with a Python based backend.
+
+## Tech Stack
+
+- Frontend
+  - Angular v21
+  - TailwindCSS
+  - ng-icons
+  - RxJS
+- Backend
+  - Python
+  - Django
+  - Graphene
 
 ## Getting Started
 
